@@ -5,8 +5,18 @@ Jump Solider is about a solider who has lost his entire his entire squad and is 
 Members:
 
 Armaan - Leader, API Manager, Group Manager, Project Stacktrace Debugger.
+
+
 Makenzey - Level Designer, Tester
+
+
 Braden - Level Designer
+
+
 Brett - Coder, Stacktrace Helper
+
+
 Jakob - Tester
+
+
 Tyler - Coder
