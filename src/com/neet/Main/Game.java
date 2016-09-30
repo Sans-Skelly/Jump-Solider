@@ -5,7 +5,9 @@ import javax.swing.JFrame;
 public class Game {
 	
 	public static void main(String[] args) {
-		JFrame window = new JFrame("Artifact");
+
+                // Adding Title
+		JFrame window = new JFrame("Jump Solider v.2");
 		window.add(new GamePanel());
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setResizable(false);
