@@ -1,15 +1,2 @@
-client
-dev tun
-proto udp
-remote <YOUR PUBLIC IP ADDRESS HERE> 1194
-resolv-retry infinite
-nobind
-persist-key
-persist-tun
-mute-replay-warnings
-ns-cert-type server
-key-direction 1
-cipher AES-128-CBC
-comp-lzo
-verb 1
-mute 20 
+Welcome to the change logs! 
+This is where you can stacktrace errors, or log changes you've made.
