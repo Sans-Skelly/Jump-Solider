@@ -19,4 +19,6 @@ Brett - Coder, Stacktrace Helper
 Jakob - Tester
 
 
-Tyler - Jr. Tester
+Tyler - Tester
+
+    //Possibly, I'm not even sure on Tyler's status.
