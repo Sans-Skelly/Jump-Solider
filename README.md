@@ -10,7 +10,7 @@ Armaan - Leader, API Manager, Group Manager, Project Stacktrace Debugger.
 Makenzey - Coder, Level Designer, Tester
 
 
-Braden - Level Designer
+Braedan - Level Designer
 
 
 Brett - Coder, Stacktrace Helper
