@@ -16,9 +16,8 @@ Braden - Level Designer
 Brett - Coder, Stacktrace Helper
 
 
-Jakob - Tester
+Jakob - Lead Tester
 
 
-Tyler - Tester
+Tyler - Level Design Helper, Tester
 
-    //Possibly, I'm not even sure on Tyler's status.
