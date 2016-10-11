@@ -1,3 +1,10 @@
 language: java
 sudo: false
 script: mvn clean verify
+deploy:
+  provider: releases
+  api_key: "88aa84e0721504ddcd93ef2609f63ab40122290d "
+  file: "Jump-Solider-1.0.0-SNAPSHOT"
+  skip_cleanup: true
+  on:
+    tags: true
