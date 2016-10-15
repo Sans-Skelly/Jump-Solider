@@ -3,8 +3,8 @@ sudo: false
 script: mvn clean install
 deploy:
   provider: releases
-  api_key: "9eb94a95408903314e3298748532ac9556590aba"
+  api_key: "7ac91d81699c73bc6e772d4dd6f0f282d47e25b7"
   file: "Jump-Solider-1.0-SNAPSHOT.jar"
   skip_cleanup: true
   on:
-    tags: false
+    tags: true
